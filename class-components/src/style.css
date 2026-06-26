@@ -65,3 +65,8 @@ button {
   border-radius: 0.25rem;
   font-family: 'Merriweather', serif;
 }
+
+.litem {
+  display: flex;
+  padding: 10px 0px;
+}
